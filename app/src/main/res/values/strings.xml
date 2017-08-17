@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoobNoob</string>
+    <string name="main_label">Noob-Noob</string>
+    <string-array name="sound_names">
+        <item>God Damn</item>
+        <item>God Damn 2</item>
+        <item>Nervous</item>
+        <item>MF</item>
+        <item>Song</item>
+    </string-array>
+    <string name="add_widget">Add widget</string>
+</resources>
